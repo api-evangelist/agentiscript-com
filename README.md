@@ -66,7 +66,7 @@
 
 AgentiScript provides an open visual language for the agentic economy, enabling shared meaning for concepts, ideas, processes, and relationships. It offers tokenization and agentification to give digital form and precise identity to intangible assets, supporting both humans and AI agents to discover, understand, and use them together. The platform is built as a public good, integrating with the XRP Ledger for payments while remaining open and extensible.
 
-**Areas:** OpenSource · VisualLanguage · AgenticEconomy · Tokenization · AI
+**Areas:** Open Source · Visual Language · Agentic Economy · Tokenization · Artificial Intelligence
 
 ## AgentiScript on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agentiscript Com Agentic Access](https://apis.io/agentic-access/agentiscript-com/agentiscript-com-agentic-access/)
+- [AgentiScript Agentic Access](https://apis.io/agentic-access/agentiscript-com/agentiscript-com-agentic-access/)
 
 #### Governance rules (1)
 
@@ -96,7 +96,7 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentiscript Com Domain Security](https://apis.io/security/agentiscript-com/agentiscript-com-domain-security/)
+- [AgentiScript Domain Security](https://apis.io/security/agentiscript-com/agentiscript-com-domain-security/)
 
 ## Where to find this API
 
@@ -109,23 +109,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.1** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 15.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 62.5 |
+| Discoverability | 69.6 |
 | Contract quality | 0.0 |
-| Contract governance | 65.5 |
+| Contract governance | 18.2 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 7.1 |
-| Access clarity | 21.1 |
+| Access clarity | 27.7 |
 
-**Agent readiness 11.7** — agent-aware
+**Agent readiness 6.9** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | — |
@@ -145,8 +145,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentiscript-com/](https://apis.io/providers/agentiscript-com/).
 
